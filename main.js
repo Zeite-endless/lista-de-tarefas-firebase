@@ -1,12 +1,12 @@
 var firebaseConfig = {
-    apiKey: "AIzaSyBsWtFgEr5L2n-k5S7NyjHuMV1nsRP87Z0",
-    authDomain: "todolist-1c6c4.firebaseapp.com",
-    databaseURL: "https://todolist-1c6c4.firebaseio.com",
-    projectId: "todolist-1c6c4",
-    storageBucket: "todolist-1c6c4.appspot.com",
-    messagingSenderId: "216871147365",
-    appId: "1:216871147365:web:3398965e6a7858fff1b38c",
-    measurementId: "G-QLFVPGTPVH"
+    apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxx",
+    authDomain: "xxxxxxxxxxx.firebaseapp.com",
+    databaseURL: "https://xxxxxxxxxxxxx.firebaseio.com",
+    projectId: "xxxxxxxxxxxx4",
+    storageBucket: "xxxxxxxxxxxx.appspot.com",
+    messagingSenderId: "xxxxxxxxxxxxxx",
+    appId: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    measurementId: "xxxxxxxxxxxxxx"
   };
   // Initialize Firebase
   firebase.initializeApp(firebaseConfig);
